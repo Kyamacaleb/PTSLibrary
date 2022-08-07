@@ -1,0 +1,7 @@
+C:\Users\kyama\source\repos\Out-of-Bounds-Ltd\PTSLibrary\bin\Debug\PTSLibrary.dll.config
+C:\Users\kyama\source\repos\Out-of-Bounds-Ltd\PTSLibrary\bin\Debug\PTSLibrary.dll
+C:\Users\kyama\source\repos\Out-of-Bounds-Ltd\PTSLibrary\bin\Debug\PTSLibrary.pdb
+C:\Users\kyama\source\repos\Out-of-Bounds-Ltd\PTSLibrary\obj\Debug\PTSLibrary.csproj.AssemblyReference.cache
+C:\Users\kyama\source\repos\Out-of-Bounds-Ltd\PTSLibrary\obj\Debug\PTSLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kyama\source\repos\Out-of-Bounds-Ltd\PTSLibrary\obj\Debug\PTSLibrary.dll
+C:\Users\kyama\source\repos\Out-of-Bounds-Ltd\PTSLibrary\obj\Debug\PTSLibrary.pdb
